@@ -10,6 +10,9 @@ public class App
     {
         // change something
          print();
+        System.out.printf("HAHAHAHAHAAAHAHAHA");
+        System.out.printf("LALALALALALALALALALALALALA");
+
     }
 
     private static void print() {
