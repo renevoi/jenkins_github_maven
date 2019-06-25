@@ -1,6 +1,8 @@
 pipeline {
     agent any
-
+    tools {
+        maven 'maven_renevoi'
+    }
     stages {
         stage ('Compile Stage') {
             steps {
